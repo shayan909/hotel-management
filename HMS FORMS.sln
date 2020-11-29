@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMS FORMS", "HMS FORMS\HMS FORMS.csproj", "{98C951A7-7118-4E2F-AB46-39EAE46118AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98C951A7-7118-4E2F-AB46-39EAE46118AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98C951A7-7118-4E2F-AB46-39EAE46118AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98C951A7-7118-4E2F-AB46-39EAE46118AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98C951A7-7118-4E2F-AB46-39EAE46118AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C6A4F58-0039-4F07-A9F9-815F8D48B25E}
+	EndGlobalSection
+EndGlobal
