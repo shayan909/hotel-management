@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="zabHotelDataSet7" targetNamespace="http://tempuri.org/zabHotelDataSet7.xsd" xmlns:mstns="http://tempuri.org/zabHotelDataSet7.xsd" xmlns="http://tempuri.org/zabHotelDataSet7.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="zabHotelConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="zabHotelConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.HMS_FORMS.Properties.Settings.GlobalReference.Default.zabHotelConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="bookingTableAdapter" GeneratorDataComponentClassName="bookingTableAdapter" Name="booking" UserDataComponentName="bookingTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="zabHotelConnectionString (Settings)" DbObjectName="zabHotel.dbo.booking" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        booking.BookingID
+FROM            booking INNER JOIN
+                         room ON booking.room_number = room.roomID
+WHERE        (room.status = 'occupied') AND (booking.bk_status &lt;&gt; 'expired')
+ORDER BY booking.BookingID DESC</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="BookingID" DataSetColumn="BookingID" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="zabHotelDataSet7" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="zabHotelDataSet7" msprop:Generator_UserDSName="zabHotelDataSet7">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="booking" msprop:Generator_TableClassName="bookingDataTable" msprop:Generator_TableVarName="tablebooking" msprop:Generator_TablePropName="booking" msprop:Generator_RowDeletingName="bookingRowDeleting" msprop:Generator_RowChangingName="bookingRowChanging" msprop:Generator_RowEvHandlerName="bookingRowChangeEventHandler" msprop:Generator_RowDeletedName="bookingRowDeleted" msprop:Generator_UserTableName="booking" msprop:Generator_RowChangedName="bookingRowChanged" msprop:Generator_RowEvArgName="bookingRowChangeEvent" msprop:Generator_RowClassName="bookingRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="BookingID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnBookingID" msprop:Generator_ColumnPropNameInRow="BookingID" msprop:Generator_ColumnPropNameInTable="BookingIDColumn" msprop:Generator_UserColumnName="BookingID" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:booking" />
+      <xs:field xpath="mstns:BookingID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

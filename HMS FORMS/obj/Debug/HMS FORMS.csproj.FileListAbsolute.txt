@@ -1,0 +1,218 @@
+C:\Users\daniy\source\repos\HMS FORMS\HMS FORMS\bin\Debug\HMS FORMS.exe.config
+C:\Users\daniy\source\repos\HMS FORMS\HMS FORMS\bin\Debug\HMS FORMS.exe
+C:\Users\daniy\source\repos\HMS FORMS\HMS FORMS\bin\Debug\HMS FORMS.pdb
+C:\Users\daniy\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS FORMS.csprojAssemblyReference.cache
+C:\Users\daniy\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Login.resources
+C:\Users\daniy\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Properties.Resources.resources
+C:\Users\daniy\source\repos\HMS FORMS\HMS FORMS\obj\Debug\Project.UCLogo.resources
+C:\Users\daniy\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS FORMS.csproj.GenerateResource.cache
+C:\Users\daniy\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS FORMS.exe
+C:\Users\daniy\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS FORMS.pdb
+C:\Users\daniy\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Admin_Menu.resources
+C:\Users\daniy\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Receptionist_Menu.resources
+C:\Users\daniy\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.UC_Insert_Receptionist.resources
+C:\Users\daniy\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Admin_Customer_Record.resources
+C:\Users\daniy\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.AdminBooking.resources
+C:\Users\daniy\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Receptionist_Information.resources
+C:\Users\daniy\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.UC_ID_UDS.resources
+C:\Users\daniy\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.UC_Customer_Record.resources
+C:\Users\daniy\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.UC_Booking.resources
+C:\Users\daniy\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.AdminRooms.resources
+C:\Users\daniy\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Receptionist_Booking.resources
+C:\Users\daniy\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Admin_Payment_Record.resources
+C:\Users\daniy\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Receptionist_Available_Rooms.resources
+C:\Users\daniy\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Receptionist_Check_Status.resources
+C:\Users\daniy\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Receptionist_Customer_Records.resources
+C:\Users\daniy\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Receptionist_Notifications.resources
+C:\Users\daniy\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Receptionist_Payment.resources
+C:\Users\daniy\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Services_Insert.resources
+C:\Users\daniy\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Services_Maipulate.resources
+C:\Users\daniy\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Services.resources
+C:\Users\daniy\OneDrive\Desktop\HMS FORMS\HMS FORMS\bin\Debug\HMS FORMS.exe.config
+C:\Users\daniy\OneDrive\Desktop\HMS FORMS\HMS FORMS\bin\Debug\HMS FORMS.exe
+C:\Users\daniy\OneDrive\Desktop\HMS FORMS\HMS FORMS\bin\Debug\HMS FORMS.pdb
+C:\Users\daniy\OneDrive\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS FORMS.csprojAssemblyReference.cache
+C:\Users\daniy\OneDrive\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Admin_Customer_Record.resources
+C:\Users\daniy\OneDrive\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.AdminBooking.resources
+C:\Users\daniy\OneDrive\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Admin_Menu.resources
+C:\Users\daniy\OneDrive\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Admin_Payment_Record.resources
+C:\Users\daniy\OneDrive\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.AdminRooms.resources
+C:\Users\daniy\OneDrive\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Receptionist_Available_Rooms.resources
+C:\Users\daniy\OneDrive\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Receptionist_Check_Status.resources
+C:\Users\daniy\OneDrive\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Receptionist_Customer_Records.resources
+C:\Users\daniy\OneDrive\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Login.resources
+C:\Users\daniy\OneDrive\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Receptionist_Booking.resources
+C:\Users\daniy\OneDrive\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Receptionist_Information.resources
+C:\Users\daniy\OneDrive\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Receptionist_Menu.resources
+C:\Users\daniy\OneDrive\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Properties.Resources.resources
+C:\Users\daniy\OneDrive\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Receptionist_Notifications.resources
+C:\Users\daniy\OneDrive\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Receptionist_Payment.resources
+C:\Users\daniy\OneDrive\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Services_Insert.resources
+C:\Users\daniy\OneDrive\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Services_Maipulate.resources
+C:\Users\daniy\OneDrive\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Services.resources
+C:\Users\daniy\OneDrive\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.UC_Insert_Receptionist.resources
+C:\Users\daniy\OneDrive\Desktop\HMS FORMS\HMS FORMS\obj\Debug\Project.UCLogo.resources
+C:\Users\daniy\OneDrive\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.UC_Booking.resources
+C:\Users\daniy\OneDrive\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.UC_Customer_Record.resources
+C:\Users\daniy\OneDrive\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.UC_ID_UDS.resources
+C:\Users\daniy\OneDrive\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.UC_ReceptionistMainMenuButton.resources
+C:\Users\daniy\OneDrive\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS FORMS.csproj.GenerateResource.cache
+C:\Users\daniy\OneDrive\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS FORMS.exe
+C:\Users\daniy\OneDrive\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS FORMS.pdb
+C:\Users\daniy\OneDrive\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.UC_Admin_MainMenu.resources
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\HMS FORMS.exe.config
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\HMS FORMS.exe
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\HMS FORMS.pdb
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\Microsoft.ReportViewer.Design.DLL
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\EnvDTE.dll
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\EnvDTE80.dll
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\stdole.dll
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\VSLangProj.dll
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\VSLangProj80.dll
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\Microsoft.MSXML.dll
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\VSLangProj2.dll
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS FORMS.exe.config
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Admin_Customer_Record.resources
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.AdminBooking.resources
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Admin_Menu.resources
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Admin_Payment_Record.resources
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.AdminRooms.resources
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.booking.resources
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.forgotPass.resources
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Reception_Service.resources
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Receptionist_Available_Rooms.resources
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Receptionist_Check_Status.resources
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Receptionist_Customer_Records.resources
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Login.resources
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Receptionist_Information.resources
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Receptionist_Menu.resources
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Properties.Resources.resources
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Receptionist_Notifications.resources
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Receptionist_Payment.resources
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Services_Insert.resources
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Services_Maipulate.resources
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Services.resources
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\obj\Debug\Project.UCLogo.resources
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.UserControl1.resources
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS FORMS.csproj.GenerateResource.cache
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\obj\Debug\RdlCompile.cache
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\obj\Debug\RdlCompile.compiled
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS FORMS.csproj.CopyComplete
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS FORMS.exe
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS FORMS.pdb
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\XanderUI.dll
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Example.resources
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.RServicesUC.resources
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.RpaymentUC.resources
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Rcheck_statusUC.resources
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.RAvailRoomUC.resources
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\dje-NE\HMS FORMS.resources.dll
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\bin\Debug\en-150\HMS FORMS.resources.dll
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.RpaymentUC.dje-NE.resources
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.RpaymentUC.en-150.resources
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\obj\Debug\dje-NE\HMS FORMS.resources.dll
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\obj\Debug\en-150\HMS FORMS.resources.dll
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.RcustUC.resources
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.RbookingUC.resources
+C:\Users\shaya\source\repos\HMS FORMS\HMS FORMS\obj\Debug\HMS FORMS.csprojAssemblyReference.cache
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\bin\Debug\HMS FORMS.exe.config
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\bin\Debug\HMS FORMS.exe
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\bin\Debug\HMS FORMS.pdb
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\bin\Debug\dje-NE\HMS FORMS.resources.dll
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\bin\Debug\en-150\HMS FORMS.resources.dll
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\bin\Debug\Microsoft.ReportViewer.Design.DLL
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\bin\Debug\EnvDTE.dll
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\bin\Debug\EnvDTE80.dll
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\bin\Debug\stdole.dll
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\bin\Debug\Microsoft.MSXML.dll
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS FORMS.csprojAssemblyReference.cache
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Admin_Customer_Record.resources
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.AdminBooking.resources
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Admin_Menu.resources
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Admin_Payment_Record.resources
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.AdminRooms.resources
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.booking.resources
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Example.resources
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.forgotPass.resources
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.RAvailRoomUC.resources
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.RbookingUC.resources
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Rcheck_statusUC.resources
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.RcustUC.resources
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Reception_Service.resources
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Receptionist_Available_Rooms.resources
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Receptionist_Check_Status.resources
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Receptionist_Customer_Records.resources
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Login.resources
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Receptionist_Information.resources
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Receptionist_Menu.resources
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Properties.Resources.resources
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Receptionist_Notifications.resources
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Receptionist_Payment.resources
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.RpaymentUC.resources
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.RServicesUC.resources
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Services_Insert.resources
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Services_Maipulate.resources
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.Services.resources
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\obj\Debug\Project.UCLogo.resources
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.UserControl1.resources
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.RpaymentUC.dje-NE.resources
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS_FORMS.RpaymentUC.en-150.resources
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS FORMS.csproj.GenerateResource.cache
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS FORMS.csproj.CoreCompileInputs.cache
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\obj\Debug\dje-NE\HMS FORMS.resources.dll
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\obj\Debug\en-150\HMS FORMS.resources.dll
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS FORMS.csproj.CopyComplete
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS FORMS.exe
+C:\Users\shaya\Desktop\HMS FORMS\HMS FORMS\obj\Debug\HMS FORMS.pdb
